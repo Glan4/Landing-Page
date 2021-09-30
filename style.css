@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: sans-serif;
 }
 
 .header {
@@ -80,7 +81,8 @@ li {
 
 .quote {
     font-size: 36px;
-    font-style: light-italic;
+    font-style: italic;
+    font-weight: 200;
     color: #1f2937;
     text-align: center;
 }
@@ -105,7 +107,7 @@ li {
 }
 
 .call {
-    
+    color: whitesmoke;
 }
 
 .btn-sign-up1 {
@@ -120,6 +122,7 @@ button {
     border-radius: 8px;
     padding: 6px 25px 6px 25px;
     font-weight: bold;
+    border: none;
 }
 
 .btn-down {
